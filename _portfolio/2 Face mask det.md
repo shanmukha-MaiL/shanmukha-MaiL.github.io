@@ -12,5 +12,5 @@ hours on kaggle kernels, the detection of boxes on the test set was impressive.<
 **Major tool(s):** *Pytorch, OpenCV, Numpy, Matplotlib, Pandas*<br>
 [**Code link**](https://www.kaggle.com/shanmukhamail/mask-detector)<br>
 **Some predictions made by the model:**<br><br>
-<img width="450" height="300" src='/images/mask det 1.png'>
-<img width="450" height="300" src='/images/mask det 2.png'>
+<img width="80%" height="80%" src='/images/mask det 1.png'>
+<img width="80%" height="80%" src='/images/mask det 2.png'>

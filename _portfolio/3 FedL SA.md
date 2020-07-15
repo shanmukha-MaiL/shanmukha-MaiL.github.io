@@ -10,7 +10,7 @@ As a part of Minor Project we tried to integrate two different research fields n
 **Major tool(s):** *Tensorflow, Keras, Tensorflow-federated, NLTK, Numpy, Pandas*<br>
 
 **An image of the web UI of the project:**<br><br>
-<img src='/images/FedL webUI.png'>
+<img width="100%" height="500" src='/images/FedL webUI.png'>
 
 **Loss VS Rounds (Different than epochs):**<br><br>
-<img src='/images/FedL graph.png'>
+<img width="100%" height="500" src='/images/FedL graph.png'>

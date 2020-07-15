@@ -10,9 +10,9 @@ Trained an agent in a way that mountain car can navigate itself to the destinati
 **Major tool(s):** *Numpy, Matplotlib*<br>
 [**Code link**](https://www.kaggle.com/shanmukhamail/rl-tutorial)<br>
 **Agent performs the task successfully as shown below:**
-<video width="450" height="300" controls>
+<video width="100%" height="500" controls>
   <source src="/images/q-learn mount car vid.mp4" type="video/mp4">
 </video><br>
 
 **Reward metrics:**<br><br>
-<img width="450" height="300" src='/images/q-learn mount car metrics.png'>
+<img width="100%" height="500" src='/images/q-learn mount car metrics.png'>
