@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A place to know"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Shanmukha's home on the web !
+Hello , hope you are doing great ! Thanks for visiting. This is my home on the internet. This website contains details about my projects, experience and resume. This also has a blog where I intend to post on various topics and tutorials regularly. If you are interested in any of these, please check them out by navigating through the above links.<br>
+## About me: 
+By the way, my name is **shanmukha** and I completed my undergraduation in the year 2020 in BTech Computer Science and Engineering (CSE) from National Institute of Technology, Raipur ([NITRR](http://www.nitrr.ac.in)) with a CGPA of 9.09/10. 
+**Major Courses taken:**  C, C++, Data Structures & Algorithms, DBMS, Theory of Computation, Artificial Intelligence, Artificial Neural Networks, Cryptography & Security, Network Programming and Software Project Management.
+**Fields of interest:** My major field of interest lies in the intersection of *Computer Vision* and *Reinforcement Learning*. Sometimes I tend to go into *Natural Language Processing* as well.
+**Rationale behind my interests:** The logic is very simple behind this. Computer Vision is the art of imparting sight to computers and Reinforcement Learning is the process of enabling general intelligence in computers thereby giving them the true power of Artificial General Intelligence (we are nowhere close to this). My slight preference of Computer Vision over Natural Language Processing is because, if someday I had to choose only 1 sense out of 5 (vision, touch, taste, smell and sound) to keep with me I would go with vision. I guess, that's what most people would go with. Because, the way one sees things, shapes up the way one thinks...is what I believe in. Be it a human or a robot.  
