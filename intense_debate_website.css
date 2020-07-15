@@ -1,0 +1,56 @@
+#idc-container-parent #idc-container {
+    background: rgb(231, 229, 229);
+    color: #000;
+    margin-top: 60% !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 20px !important;
+    border: 5px solid #000;
+    border-radius: 2%;
+    }
+
+#idc-container-parent #idc-container a:hover {
+    color: #ff4242c2;
+    }
+
+#idc-container-parent #idc-container .idc-new {
+    background-color: #dda509fb !important;
+    padding: 15px ;
+    width: auto;
+    border: 4px solid #000;
+    border-radius: 4%;
+    }    
+
+#idc-container-parent #idc-container .idc-head .idc-user {
+    background: rgb(180, 177, 177);
+    border: 2px solid #000;
+    }
+
+#idc-container-parent #idc-container .idc-c {
+    padding-left: 15px;
+    }
+
+#idc-container-parent #idc-container .idc-c.idc-c-highlighted {
+    background-color: rgb(180, 177, 177);
+    }
+
+#idc-container-parent #idc-container .idc-c .idc-c-h {
+    background-color: #c5c3c3 !important;
+    
+    }
+
+#idc-container-parent #idc-container .idc-c {
+    background-color: #F6F6F6;
+    padding: 15px;
+    margin: 0px;
+    border: 3px solid rgb(182, 177, 177);
+    border-bottom: 2px solid rgb(182, 177, 177) !important;
+    }
+
+#idc-container-parent #idc-container .idc-c-h .idc-a {
+    border: 2px solid #09f !important;
+    }
+
+#idc-container-parent #idc-container .idc-v {
+    border: 2px solid #09f !important;
+    }
