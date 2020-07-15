@@ -69,14 +69,8 @@ layout: default
       {% include post_pagination.html %}
     </div>
       {% if site.comments.provider and page.comments %}
-    <!--       {% include comments.html %} -->
-       <script>
-        var idcomments_acct = '642818b05acee1b2e88e9ca049f41d5b';
-        var idcomments_post_id;
-        var idcomments_post_url;
-      </script>
-      <span id="IDCommentsPostTitle" style="display:none"></span>
-      <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+          {% include comments.html %}
+       
     {% endif %}
   </article>
 
