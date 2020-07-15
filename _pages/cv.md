@@ -13,6 +13,3 @@ Kindly refresh the page if resume doesn't appear. Thanks !
 </iframe><br>
 *Resume customized from [ResumeCards](https://github.com/ellekasai/resumecards)*
 <br>
-<!--
-<embed src="https://shanmukha-MaiL.github.io/files/ShanmukhaVellamcheti_Resume.pdf" type="application/pdf" width="600px" height="400px" />
--->
