@@ -68,10 +68,18 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-
-    {% if site.comments.provider and page.comments %}
+    <div id="hyvor-talk-view"></div>
+   <script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 1209; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+       };
+   </script>
+   <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+<!--     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
-    {% endif %}
+    {% endif %} -->
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
