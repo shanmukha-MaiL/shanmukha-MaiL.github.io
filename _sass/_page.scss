@@ -288,6 +288,7 @@
 
 .page__comments {
   @include full();
+   background-color: #fff !important;
 }
 
 .page__comments-title {
