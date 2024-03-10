@@ -1,6 +1,6 @@
 ---
 title: 'Hello world !!!'
-date: 2020-07-13
+date: 2020-08-13
 permalink: /posts/2020/08/stay-tuned-post/
 tags:
   - machine learning
